@@ -32,6 +32,6 @@ int main()
     int n = 3, w = 9;
     cout << knapSack(w, weight, values, n) << endl;
     cout << count << endl;
-    cout << count << endl;
+
     return 0;
 }
