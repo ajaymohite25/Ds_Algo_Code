@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp"
+    }
+}
