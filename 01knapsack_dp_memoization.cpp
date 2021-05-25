@@ -31,7 +31,6 @@ int main()
     int weight[] = {4, 5, 9};
     int n = 3, w = 9;
     cout << knapSack(w, weight, values, n) << endl;
-    cout << count << endl;
-
+    cout << count;
     return 0;
 }
